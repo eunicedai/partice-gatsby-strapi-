@@ -1,0 +1,26 @@
+{
+  "connection": "default",
+  "collectionName": "testusers",
+  "info": {
+    "name": "testuser",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "comment": ""
+  },
+  "attributes": {
+    "u_id": {
+      "default": "",
+      "unique": true,
+      "type": "string",
+      "required": true
+    },
+    "u_pwd": {
+      "default": "",
+      "type": "password",
+      "required": true
+    }
+  }
+}
