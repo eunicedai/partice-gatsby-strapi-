@@ -15,7 +15,8 @@
       "default": "",
       "unique": true,
       "type": "string",
-      "required": true
+      "required": true,
+      "minLength": 5
     },
     "u_pwd": {
       "default": "",
