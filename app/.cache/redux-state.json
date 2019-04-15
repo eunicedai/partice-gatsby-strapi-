@@ -1,0 +1,1979 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/Users/ALEE/Desktop/strapi/gats/app/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "componentPath": "/Users/ALEE/Desktop/strapi/gats/app/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "438f9ac2aa71cfe3bf1ede9d1c2c8516",
+        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
+      "resolve": "/Users/ALEE/Desktop/strapi/gats/app/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ALEE/Desktop/strapi/gats/app/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "87c98fd8cdfe0905c2685a460f054b26",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1fc32581-893a-55e8-8927-bcd667e2b700": {
+      "resolve": "/Users/ALEE/Desktop/strapi/gats/app/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
+      "name": "load-babel-config",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ALEE/Desktop/strapi/gats/app/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "packageJson": {
+        "name": "load-babel-config",
+        "description": "Internal plugin that handles loading Babel configs",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "488b32de65dfad02819c29df55fcbc3d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
+      "resolve": "/Users/ALEE/Desktop/strapi/gats/app/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ALEE/Desktop/strapi/gats/app/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "8557374249f92ba75c0c51e4427e2017",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
+      "resolve": "/Users/ALEE/Desktop/strapi/gats/app/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ALEE/Desktop/strapi/gats/app/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "5d5973824f7c8745b79daca28791b7cd",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84dad27f-1d44-51fc-ac56-4db2e5222995": {
+      "resolve": "/Users/ALEE/Desktop/strapi/gats/app/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ALEE/Desktop/strapi/gats/app/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "5910dbb6d27012e711dcb26a01c507fa",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "6f4b2fa9-66b5-5205-a03f-140005a2cfe5": {
+      "resolve": "/Users/ALEE/Desktop/strapi/gats/app/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "id": "6f4b2fa9-66b5-5205-a03f-140005a2cfe5",
+      "name": "webpack-theme-component-shadowing",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ALEE/Desktop/strapi/gats/app/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "packageJson": {
+        "name": "webpack-theme-component-shadowing",
+        "description": "An internal Gatsby plugin which handles configuring webpack to ensure theme components fall back from the user's site to theme modules.",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Chris Biscardi <chris@christopherbiscardi.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "86f78d3a12355d65ce465914da9cc870",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1943ff2f-9c0c-558d-8d0c-006603e8106a": {
+      "resolve": "/Users/ALEE/Desktop/strapi/gats/app/node_modules/gatsby-plugin-react-helmet",
+      "id": "1943ff2f-9c0c-558d-8d0c-006603e8106a",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "3.0.11",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/ALEE/Desktop/strapi/gats/app/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "3.0.11",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "f4e4fdf55c1016516193dfc7c43fe75c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "113b59a1-dc04-54cd-9c1b-29f627b41283": {
+      "resolve": "/Users/ALEE/Desktop/strapi/gats/app/node_modules/gatsby-source-filesystem",
+      "id": "113b59a1-dc04-54cd-9c1b-29f627b41283",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.28",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "images",
+        "path": "/Users/ALEE/Desktop/strapi/gats/app/src/images"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ALEE/Desktop/strapi/gats/app/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.28",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "2.1.2"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "d8ffde05f781a89b62e8adf34d74287b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "5c40d97f-4f65-5e04-aa7f-c941078c83d1": {
+      "resolve": "/Users/ALEE/Desktop/strapi/gats/app/node_modules/gatsby-source-strapi",
+      "id": "5c40d97f-4f65-5e04-aa7f-c941078c83d1",
+      "name": "gatsby-source-strapi",
+      "version": "0.0.7",
+      "pluginOptions": {
+        "plugins": [],
+        "apiURL": "http://localhost:1337",
+        "contentTypes": [
+          "article",
+          "user",
+          "testuser"
+        ],
+        "queryLimit": 1000
+      },
+      "nodeAPIs": [
+        "sourceNodes"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ALEE/Desktop/strapi/gats/app/node_modules/gatsby-source-strapi",
+      "packageJson": {
+        "name": "gatsby-source-strapi",
+        "description": "Gatsby source plugin for building websites using Strapi as a data source",
+        "version": "0.0.7",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "gatsby-source-plugin",
+          "strapi"
+        ],
+        "author": {
+          "name": "Strapi Solutions",
+          "email": "hi@strapi.io",
+          "url": "http://strapi.io"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "axios",
+            "version": "^0.18.0"
+          },
+          {
+            "name": "gatsby-node-helpers",
+            "version": "^0.3.0"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^1.5.39"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.11"
+          },
+          {
+            "name": "pluralize",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.24.1"
+          },
+          {
+            "name": "babel-plugin-transform-async-to-generator",
+            "version": "^6.24.1"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.23.0"
+          },
+          {
+            "name": "babel-plugin-transform-runtime",
+            "version": "^6.23.0"
+          },
+          {
+            "name": "babel-preset-env",
+            "version": "^1.6.0"
+          },
+          {
+            "name": "pre-commit",
+            "version": "^1.2.2"
+          },
+          {
+            "name": "prettier",
+            "version": "^1.5.3"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "1cb7ede7e7a553100bd52bd8045b9d0a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9": {
+      "resolve": "/Users/ALEE/Desktop/strapi/gats/app/node_modules/gatsby-transformer-sharp",
+      "id": "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9",
+      "name": "gatsby-transformer-sharp",
+      "version": "2.1.17",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ALEE/Desktop/strapi/gats/app/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "2.1.17",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.33"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "82aeb91754a1a7e061311775bd29df2a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84d6154d-4241-556c-a679-cc8339cac100": {
+      "resolve": "/Users/ALEE/Desktop/strapi/gats/app/node_modules/gatsby-plugin-sharp",
+      "id": "84d6154d-4241-556c-a679-cc8339cac100",
+      "name": "gatsby-plugin-sharp",
+      "version": "2.0.32",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ALEE/Desktop/strapi/gats/app/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "2.0.32",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-mozjpeg",
+            "version": "^8.0.0"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mini-svg-data-uri",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          },
+          {
+            "name": "svgo",
+            "version": "^1.2.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "ac82681b8f62850746984c844e8a67cf",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "112c12f8-b222-509b-abe0-dfe93a905df9": {
+      "resolve": "/Users/ALEE/Desktop/strapi/gats/app/node_modules/gatsby-plugin-manifest",
+      "id": "112c12f8-b222-509b-abe0-dfe93a905df9",
+      "name": "gatsby-plugin-manifest",
+      "version": "2.0.26",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "gatsby-starter-default",
+        "short_name": "starter",
+        "start_url": "/",
+        "background_color": "#663399",
+        "theme_color": "#663399",
+        "display": "minimal-ui",
+        "icon": "src/images/gatsby-icon.png"
+      },
+      "nodeAPIs": [
+        "onPostBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/ALEE/Desktop/strapi/gats/app/node_modules/gatsby-plugin-manifest",
+      "packageJson": {
+        "name": "gatsby-plugin-manifest",
+        "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
+        "version": "2.0.26",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "icons",
+          "manifest.webmanifest",
+          "progressive-web-app",
+          "pwa"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.15"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "9cad13b39a4912afa0667c3286e0f585",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
+      "resolve": "/Users/ALEE/Desktop/strapi/gats/app",
+      "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "name": "default-site-plugin",
+      "version": "01b2d7b7a4212809db9e600ed85334bc",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ALEE/Desktop/strapi/gats/app",
+      "packageJson": {
+        "name": "gatsby-starter-default",
+        "description": "A simple starter to get up and developing quickly with Gatsby",
+        "version": "0.1.0",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "axios",
+            "version": "^0.18.0"
+          },
+          {
+            "name": "gatsby",
+            "version": "^2.3.5"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "^2.0.37"
+          },
+          {
+            "name": "gatsby-plugin-manifest",
+            "version": "^2.0.26"
+          },
+          {
+            "name": "gatsby-plugin-offline",
+            "version": "^2.0.25"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^3.0.11"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.32"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^2.0.28"
+          },
+          {
+            "name": "gatsby-source-strapi",
+            "version": "0.0.7"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^2.1.17"
+          },
+          {
+            "name": "prop-types",
+            "version": "^15.7.2"
+          },
+          {
+            "name": "react",
+            "version": "^16.8.6"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.8.6"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "prettier",
+            "version": "^1.16.4"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "0c9729f24c9ead96bdf7de60dc8ca863",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "de1e71c1-cf0c-5456-986b-0149b9c33f6f": {
+      "resolve": "/Users/ALEE/Desktop/strapi/gats/app/node_modules/gatsby-plugin-page-creator",
+      "id": "de1e71c1-cf0c-5456-986b-0149b9c33f6f",
+      "name": "gatsby-plugin-page-creator",
+      "version": "2.0.12",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/ALEE/Desktop/strapi/gats/app/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ALEE/Desktop/strapi/gats/app/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "2.0.12",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "2.1.2"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "micromatch",
+            "version": "^3.1.10"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "8e5780303fa76e854aec2fe63fdea653",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "MY TEST TEST",
+        "description": "Gatsby with Strapi",
+        "author": "@eunicedai"
+      },
+      "port": 8000,
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2019-04-12T06:13:37.388Z",
+      "id": "Site",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "c0d81dbbd7ca4f69a6d6b335095af55a",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "291a9f74-a4da-5ffa-9569-8c3a1a333271": {
+      "id": "291a9f74-a4da-5ffa-9569-8c3a1a333271",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "bc0ebb94f379f839a10d7a50f9c22c82",
+        "type": "Directory",
+        "description": "Directory \"src/images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/ALEE/Desktop/strapi/gats/app/src/images",
+      "relativePath": "",
+      "extension": "",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2019-04-03T07:42:29.435Z",
+      "accessTime": "2019-04-12T06:13:39.826Z",
+      "changeTime": "2019-04-03T07:42:29.435Z",
+      "birthTime": "2019-04-03T07:42:29.434Z",
+      "root": "/",
+      "dir": "/Users/ALEE/Desktop/strapi/gats/app/src",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "..",
+      "dev": 16777223,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 12887172266,
+      "blocks": 0,
+      "atimeMs": 1555049619825.5334,
+      "mtimeMs": 1554277349434.9226,
+      "ctimeMs": 1554277349434.9226,
+      "birthtimeMs": 1554277349433.5361,
+      "atime": "2019-04-12T06:13:39.826Z",
+      "mtime": "2019-04-03T07:42:29.435Z",
+      "ctime": "2019-04-03T07:42:29.435Z",
+      "birthtime": "2019-04-03T07:42:29.434Z"
+    },
+    "be6647da-d406-5a1e-8b0f-e98e95cab6f8": {
+      "id": "be6647da-d406-5a1e-8b0f-e98e95cab6f8",
+      "children": [
+        "fbb46d40-9ea5-59ed-8e94-68a7d18b8da2"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "4a9773549091c227cd2eb82ccd9c5e3a",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/gatsby-icon.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/ALEE/Desktop/strapi/gats/app/src/images/gatsby-icon.png",
+      "relativePath": "gatsby-icon.png",
+      "extension": "png",
+      "size": 21212,
+      "prettySize": "21.2 kB",
+      "modifiedTime": "2019-04-03T07:42:29.435Z",
+      "accessTime": "2019-04-12T06:13:25.497Z",
+      "changeTime": "2019-04-03T07:42:29.435Z",
+      "birthTime": "2019-04-03T07:42:29.435Z",
+      "root": "/",
+      "dir": "/Users/ALEE/Desktop/strapi/gats/app/src/images",
+      "base": "gatsby-icon.png",
+      "ext": ".png",
+      "name": "gatsby-icon",
+      "relativeDirectory": "",
+      "dev": 16777223,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 12887172268,
+      "blocks": 48,
+      "atimeMs": 1555049605497.3843,
+      "mtimeMs": 1554277349435.1885,
+      "ctimeMs": 1554277349435.1885,
+      "birthtimeMs": 1554277349434.9036,
+      "atime": "2019-04-12T06:13:25.497Z",
+      "mtime": "2019-04-03T07:42:29.435Z",
+      "ctime": "2019-04-03T07:42:29.435Z",
+      "birthtime": "2019-04-03T07:42:29.435Z"
+    },
+    "fbb46d40-9ea5-59ed-8e94-68a7d18b8da2": {
+      "id": "fbb46d40-9ea5-59ed-8e94-68a7d18b8da2",
+      "children": [],
+      "parent": "be6647da-d406-5a1e-8b0f-e98e95cab6f8",
+      "internal": {
+        "contentDigest": "4a9773549091c227cd2eb82ccd9c5e3a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "dd41b043-cf7d-52a9-84aa-b5cdfcc507da": {
+      "id": "dd41b043-cf7d-52a9-84aa-b5cdfcc507da",
+      "children": [
+        "dfc5e523-74a8-5fac-bc00-487687287c6a"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "6d91c86c0fde632ba4cd01062fd9ccfa",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/gatsby-astronaut.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/ALEE/Desktop/strapi/gats/app/src/images/gatsby-astronaut.png",
+      "relativePath": "gatsby-astronaut.png",
+      "extension": "png",
+      "size": 167273,
+      "prettySize": "167 kB",
+      "modifiedTime": "2019-04-03T07:42:29.435Z",
+      "accessTime": "2019-04-12T06:13:25.497Z",
+      "changeTime": "2019-04-03T07:42:29.435Z",
+      "birthTime": "2019-04-03T07:42:29.434Z",
+      "root": "/",
+      "dir": "/Users/ALEE/Desktop/strapi/gats/app/src/images",
+      "base": "gatsby-astronaut.png",
+      "ext": ".png",
+      "name": "gatsby-astronaut",
+      "relativeDirectory": "",
+      "dev": 16777223,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 12887172267,
+      "blocks": 328,
+      "atimeMs": 1555049605497.3606,
+      "mtimeMs": 1554277349434.818,
+      "ctimeMs": 1554277349434.818,
+      "birthtimeMs": 1554277349433.6194,
+      "atime": "2019-04-12T06:13:25.497Z",
+      "mtime": "2019-04-03T07:42:29.435Z",
+      "ctime": "2019-04-03T07:42:29.435Z",
+      "birthtime": "2019-04-03T07:42:29.434Z"
+    },
+    "dfc5e523-74a8-5fac-bc00-487687287c6a": {
+      "id": "dfc5e523-74a8-5fac-bc00-487687287c6a",
+      "children": [],
+      "parent": "dd41b043-cf7d-52a9-84aa-b5cdfcc507da",
+      "internal": {
+        "contentDigest": "6d91c86c0fde632ba4cd01062fd9ccfa",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/ALEE/Desktop/strapi/gats/app/.cache/gatsby-source-filesystem/701d2097b591d36653c32ba793935abf.png absPath of file": {
+      "id": "/Users/ALEE/Desktop/strapi/gats/app/.cache/gatsby-source-filesystem/701d2097b591d36653c32ba793935abf.png absPath of file",
+      "children": [
+        "e5005837-3ddb-5629-a263-f8010d521a5b"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b9de7406f88306fc50de6a236ce05490",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"http://localhost:1337/uploads/f2d7dfac893f41efb11b6970ac1bc5c6.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "__PROGRAMATTIC__",
+      "absolutePath": "/Users/ALEE/Desktop/strapi/gats/app/.cache/gatsby-source-filesystem/701d2097b591d36653c32ba793935abf.png",
+      "relativePath": ".cache/gatsby-source-filesystem/701d2097b591d36653c32ba793935abf.png",
+      "extension": "png",
+      "size": 34248,
+      "prettySize": "34.2 kB",
+      "modifiedTime": "2019-04-12T06:13:40.004Z",
+      "accessTime": "2019-04-12T06:13:39.999Z",
+      "changeTime": "2019-04-12T06:13:40.009Z",
+      "birthTime": "2019-04-12T06:13:39.999Z",
+      "root": "/",
+      "dir": "/Users/ALEE/Desktop/strapi/gats/app/.cache/gatsby-source-filesystem",
+      "base": "701d2097b591d36653c32ba793935abf.png",
+      "ext": ".png",
+      "name": "701d2097b591d36653c32ba793935abf",
+      "relativeDirectory": ".cache/gatsby-source-filesystem",
+      "dev": 16777223,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 12887360462,
+      "blocks": 72,
+      "atimeMs": 1555049619999.365,
+      "mtimeMs": 1555049620004.458,
+      "ctimeMs": 1555049620008.6816,
+      "birthtimeMs": 1555049619999.365,
+      "atime": "2019-04-12T06:13:39.999Z",
+      "mtime": "2019-04-12T06:13:40.004Z",
+      "ctime": "2019-04-12T06:13:40.009Z",
+      "birthtime": "2019-04-12T06:13:39.999Z"
+    },
+    "e5005837-3ddb-5629-a263-f8010d521a5b": {
+      "id": "e5005837-3ddb-5629-a263-f8010d521a5b",
+      "children": [],
+      "parent": "/Users/ALEE/Desktop/strapi/gats/app/.cache/gatsby-source-filesystem/701d2097b591d36653c32ba793935abf.png absPath of file",
+      "internal": {
+        "contentDigest": "b9de7406f88306fc50de6a236ce05490",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/ALEE/Desktop/strapi/gats/app/.cache/gatsby-source-filesystem/dac063ca6a0298045eeaf2473e2f56b4.png absPath of file": {
+      "id": "/Users/ALEE/Desktop/strapi/gats/app/.cache/gatsby-source-filesystem/dac063ca6a0298045eeaf2473e2f56b4.png absPath of file",
+      "children": [
+        "299f151c-5796-5eb4-b2bb-52d521c6b0b0"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "95e27133fe49be93649fd02b5007dad1",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"http://localhost:1337/uploads/51a2b95a9dba45748bdbc32772b21b27.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "__PROGRAMATTIC__",
+      "absolutePath": "/Users/ALEE/Desktop/strapi/gats/app/.cache/gatsby-source-filesystem/dac063ca6a0298045eeaf2473e2f56b4.png",
+      "relativePath": ".cache/gatsby-source-filesystem/dac063ca6a0298045eeaf2473e2f56b4.png",
+      "extension": "png",
+      "size": 37168,
+      "prettySize": "37.2 kB",
+      "modifiedTime": "2019-04-12T06:13:40.021Z",
+      "accessTime": "2019-04-12T06:13:40.016Z",
+      "changeTime": "2019-04-12T06:13:40.022Z",
+      "birthTime": "2019-04-12T06:13:40.016Z",
+      "root": "/",
+      "dir": "/Users/ALEE/Desktop/strapi/gats/app/.cache/gatsby-source-filesystem",
+      "base": "dac063ca6a0298045eeaf2473e2f56b4.png",
+      "ext": ".png",
+      "name": "dac063ca6a0298045eeaf2473e2f56b4",
+      "relativeDirectory": ".cache/gatsby-source-filesystem",
+      "dev": 16777223,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 12887360467,
+      "blocks": 80,
+      "atimeMs": 1555049620016.0747,
+      "mtimeMs": 1555049620020.806,
+      "ctimeMs": 1555049620021.559,
+      "birthtimeMs": 1555049620016.0747,
+      "atime": "2019-04-12T06:13:40.016Z",
+      "mtime": "2019-04-12T06:13:40.021Z",
+      "ctime": "2019-04-12T06:13:40.022Z",
+      "birthtime": "2019-04-12T06:13:40.016Z"
+    },
+    "299f151c-5796-5eb4-b2bb-52d521c6b0b0": {
+      "id": "299f151c-5796-5eb4-b2bb-52d521c6b0b0",
+      "children": [],
+      "parent": "/Users/ALEE/Desktop/strapi/gats/app/.cache/gatsby-source-filesystem/dac063ca6a0298045eeaf2473e2f56b4.png absPath of file",
+      "internal": {
+        "contentDigest": "95e27133fe49be93649fd02b5007dad1",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/ALEE/Desktop/strapi/gats/app/.cache/gatsby-source-filesystem/1836dc2dd3eff9c9b585c8099c991afd.png absPath of file": {
+      "id": "/Users/ALEE/Desktop/strapi/gats/app/.cache/gatsby-source-filesystem/1836dc2dd3eff9c9b585c8099c991afd.png absPath of file",
+      "children": [
+        "b6d16ce1-25da-5be3-9473-acf721189e26"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "dfb9374ace69c3b235b05e5feee589ee",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"http://localhost:1337/uploads/f0eebbfeae5c437d91d557e90910eec0.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "__PROGRAMATTIC__",
+      "absolutePath": "/Users/ALEE/Desktop/strapi/gats/app/.cache/gatsby-source-filesystem/1836dc2dd3eff9c9b585c8099c991afd.png",
+      "relativePath": ".cache/gatsby-source-filesystem/1836dc2dd3eff9c9b585c8099c991afd.png",
+      "extension": "png",
+      "size": 87184,
+      "prettySize": "87.2 kB",
+      "modifiedTime": "2019-04-12T06:13:40.041Z",
+      "accessTime": "2019-04-12T06:13:40.028Z",
+      "changeTime": "2019-04-12T06:13:40.043Z",
+      "birthTime": "2019-04-12T06:13:40.028Z",
+      "root": "/",
+      "dir": "/Users/ALEE/Desktop/strapi/gats/app/.cache/gatsby-source-filesystem",
+      "base": "1836dc2dd3eff9c9b585c8099c991afd.png",
+      "ext": ".png",
+      "name": "1836dc2dd3eff9c9b585c8099c991afd",
+      "relativeDirectory": ".cache/gatsby-source-filesystem",
+      "dev": 16777223,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 12887360472,
+      "blocks": 176,
+      "atimeMs": 1555049620027.945,
+      "mtimeMs": 1555049620040.9226,
+      "ctimeMs": 1555049620043.2607,
+      "birthtimeMs": 1555049620027.945,
+      "atime": "2019-04-12T06:13:40.028Z",
+      "mtime": "2019-04-12T06:13:40.041Z",
+      "ctime": "2019-04-12T06:13:40.043Z",
+      "birthtime": "2019-04-12T06:13:40.028Z"
+    },
+    "b6d16ce1-25da-5be3-9473-acf721189e26": {
+      "id": "b6d16ce1-25da-5be3-9473-acf721189e26",
+      "children": [],
+      "parent": "/Users/ALEE/Desktop/strapi/gats/app/.cache/gatsby-source-filesystem/1836dc2dd3eff9c9b585c8099c991afd.png absPath of file",
+      "internal": {
+        "contentDigest": "dfb9374ace69c3b235b05e5feee589ee",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "Article_1": {
+      "title": "Bed and Breakfasts Give Travel a Personal Touch",
+      "content": "Travelers seeking a personal touch and insider stories would do well to consider staying at a local bed and breakfast (B&B). B&Bs \"are more intimate, with much more personal attention,\" says Sharon Scruggs, who operates the Fife and Drum Inn with her husband, Billy. Both are lifetime residents of Williamsburg, Virginia, and provide a unique and in-depth perspective on the history of the area for their guests. The bed-and-breakfast experience offers many other benefits beyond what travelers find in a chain- hotel setting.\n\nLocation\n\nMany bed and breakfasts are historic properties, often located in the center of scenic areas.The Fife and Drum Inn has been part of Sharon’s family for generations. The building was constructed in 1933 by her grandfather as a combination of stores with apartments above, and is a short walk to the sights and sounds of Colonial Williamsburg, including the holiday Grand Illumination fireworks display.- Character. Part of the charm of a bed and breakfast is the uniqueness; art, décor, and food are integrated to create a complete experience. For example, the Fife and Drum retains the colonial feel of the area in all its guest rooms. Special features include antique furnishings, elegant four poster beds in some guest rooms, as well folk art and artifacts from the restoration period of the historic area available for guests to enjoy.\n\nFood \n\nBed and breakfasts don’t shirk the breakfast half of the equation, and the best of them reflect the local cuisine. The Fife and Drum features daily breakfast casseroles based on family recipes to reflect the southern cooking of the area; other items include fresh biscuits, Virginia ham, fruit, and a unique blend of granola to fuel a day of sightseeing.\n\nCustomization. \n\nNot only do visitors to a bed and breakfast get a unique perspective on the place they are visiting, they have options for special packages not available in other hotel settings. \n\nBed and breakfasts can partner easily with local businesses for a smoothly organized and highly personalized vacation experience.The Fife and Drum Inn offers options such as the Historic Triangle Package that includes three nights at the Inn, breakfasts, and admissions to historic Williamsburg, Jamestown, and Yorktown. Bed and breakfasts also lend themselves to romance. Helpful hosts can design guest packages built around proposals, anniversaries, or just a special getaway.\n\nVisit fifeanddruminn.com for more details about how a bed and breakfast makes for a memorable travel experience.",
+      "author": {
+        "id": 1,
+        "username": "eunice",
+        "email": "eunice@melody.com.tw",
+        "provider": "local",
+        "confirmed": 1,
+        "blocked": null,
+        "role": 1,
+        "articles": 2
+      },
+      "js": null,
+      "created_at": 1554277138450,
+      "updated_at": 1554277138459,
+      "image": {
+        "id": 1,
+        "name": "c_1.png",
+        "hash": "f2d7dfac893f41efb11b6970ac1bc5c6",
+        "sha256": "ThBH7BUfMVuApMuScnmX_Qj65BcWlWvjd76FkCmN2SQ",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": "34.25",
+        "url": "/uploads/f2d7dfac893f41efb11b6970ac1bc5c6.png",
+        "provider": "local",
+        "public_id": null,
+        "created_at": 1554277138494,
+        "updated_at": 1554277138504
+      },
+      "image___NODE": "/Users/ALEE/Desktop/strapi/gats/app/.cache/gatsby-source-filesystem/701d2097b591d36653c32ba793935abf.png absPath of file",
+      "strapiId": 1,
+      "id": "Article_1",
+      "parent": "__SOURCE__",
+      "children": [],
+      "internal": {
+        "type": "StrapiArticle",
+        "contentDigest": "f75cd69383eafdcea3282d433822f084",
+        "owner": "gatsby-source-strapi"
+      }
+    },
+    "Article_2": {
+      "title": "Real Talk — When Was The Last Time You Enjoyed Your Business Trip?",
+      "content": "It’s hard to believe that 2017 is more than halfway over and that fall is in the air. With that, life starts to speed up as kids head back to school, holidays loom just around the corner, and you may find yourself traveling for work a bit more in the coming months as companies try to wrap up end-of-the-year projects.\n\nWelcome to real travel. What does that mean exactly? While we would all like to plan trips to exotic locations for weeks at a time, the truth is that people travel for life reasons, such as visiting relatives, meeting with clients, and for children’s sports. Just because these types of trips are practical does not mean they can’t also be enjoyable. And one travel blogger has some ideas on how to inject some fun into your real life trips.\n\nDanielle Smith, wife, mother, and creator of the Pretty Extraordinary website, \"A place where you can ditch perfection, embrace the juggle and come away celebrating the small victories,\" believes there are some simple ways to get the best out of real travel.* \n\nMake Practical Trips Fun and Fun Trips Practical: \n\nWhether you are obligated to visit a family member or simply travel for business, seek out a few opportunities to enjoy the time away. Find a new restaurant that serves your favorite type of food, take in a show or visit a local treasure. Alternatively, if you have the opportunity to steal away for vacation, take the time to do a college tour with your kids: even if they aren’t looking yet, you never know what doors you may open.* \n\nSeek the Perks: \n\nFor any type of travel, always look for hotels that offer the amenities that will make your stay both more comfortable and affordable. When traveling for business, chances are you’re visiting clients in various cities, so it’s important to find a hotel brand that consistently offers what you need. Hampton by Hilton, for instance, has more than 2,240 properties around the world and offers free amenities to make your stay more pleasurable. To help fuel up for those long days on the road or endless meetings, the hotel provides On the Run breakfast bags as a perk. Need to stay up late working into the evening? There’s free Wi-Fi for that.* \n\nPlan for Disruption: \n\nWe all know that real travel involves real life moments — lost luggage, delayed flights, rainstorms when you were planning on a sunny day. So take the time to monitor the weather before you head to your destination, and keep a few extra items in your carry-on or purse (such as a rain hat, sweater or umbrella).While travel can be stressful, if you are prepared and plan ahead, it doesn’t have to be. You may even be able to enjoy a few moments.\n\nSo don’t forget to book your next getaway at Hampton.com, where Hilton Honors members get a guaranteed discount.  ",
+      "author": {
+        "id": 1,
+        "username": "eunice",
+        "email": "eunice@melody.com.tw",
+        "provider": "local",
+        "confirmed": 1,
+        "blocked": null,
+        "role": 1,
+        "articles": 2
+      },
+      "js": null,
+      "created_at": 1554277168694,
+      "updated_at": 1554277216657,
+      "image": {
+        "id": 2,
+        "name": "c_6.png",
+        "hash": "51a2b95a9dba45748bdbc32772b21b27",
+        "sha256": "jHA70mWaYp9aor2Uc6dDzwGzNVzoTpU4iZ5wloqRe0k",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": "37.17",
+        "url": "/uploads/51a2b95a9dba45748bdbc32772b21b27.png",
+        "provider": "local",
+        "public_id": null,
+        "created_at": 1554277168713,
+        "updated_at": 1554277168721
+      },
+      "image___NODE": "/Users/ALEE/Desktop/strapi/gats/app/.cache/gatsby-source-filesystem/dac063ca6a0298045eeaf2473e2f56b4.png absPath of file",
+      "strapiId": 2,
+      "id": "Article_2",
+      "parent": "__SOURCE__",
+      "children": [],
+      "internal": {
+        "type": "StrapiArticle",
+        "contentDigest": "684ba67867150ebf74807c62e9f6e3fa",
+        "owner": "gatsby-source-strapi"
+      }
+    },
+    "Article_3": {
+      "title": "Fall in Love with Greater Fort Lauderdale",
+      "content": "Travelers may think of summer and beach activities when they think of Florida, but Greater Fort Lauderdale takes its relaxing vibe into the fall season.With options for off-season savings, visitors can enjoy a VIP experience for less and make the most of a fall visit to the destination, including deals on fine dining, outdoor activities, and indulgent spa experiences, just before heading into winter.\n\n-Food: Greater Fort Lauderdale Restaurant Month is back by popular demand with a new name and improved dining deals. \n\n\"Crave GFL,\" Greater Fort Lauderdale Restaurant Month, is back by popular demand with a new name and improved dining deals. \"Crave GFL,\" which runs through the month of September with many restaurants extending until October 15, celebrates the distinctive fusion of flavors that Greater Fort Lauderdale has to offer. \n\nThe promotion includes a series of tasting events, and more than 45 area restaurants offer specially created three course meals priced at $37. celebrates the area’s distinctive fusion of flavors that Greater Fort Lauderdale has to offer. \n\nThe promotion includes a series of tasting events, and more than 45 area restaurants offer specially- created three-course meals priced at $37.\"\n\nThe natural beauty of our seaside community inspires chefs to create meals that are fresh and palate-pleasing,\" says Stacy Ritter, president of the Greater Fort Lauderdale Convention & Visitors Bureau.\"Our restaurants and cafes are taking their rightful place not only on the global-cuisine stage, but also among our abundance of visitor attractions,\" she adds. \n\nFor more information, visit sunny.org/cravegfl for more details.\n\n-Fun: The Vacation Like A VIP program, offering packages at a number of upscale hotels through October 15, allows visitors to Greater Fort Lauderdale to enjoy a buy-one-get-one free deal on activities, including Everglades airboat rides, visits to Sawgrass Recreation Park and Everglades Holiday Park, scuba diving, snorkeling, and surfing the FlowRider at Margaritaville Hollywood Beach Resort, along with other water-sport activities and water-taxi tours.\n\nVisit sunny.org/vip for additional information.\n\n-Feeling good: Greater Fort Lauderdale’s popular spa promotion is back through October 15.\n\nDuring \"Spatember,\" the promotion includes specialty services for $99 at select spas in the area, with many extending to October 15. Treatments range from organic facials and eye treatments to therapeutic manicures and pedicures, as well as unique hot stone massage sessions.The Spatember deals may be a welcome opportunity \"to find some much deserved ‘me time’ to restore the mind, body, and soul without breaking the bank,\" Ms. Ritter says.\n\nVisit sunny.org/spatember for more information. ",
+      "author": {
+        "id": 1,
+        "username": "eunice",
+        "email": "eunice@melody.com.tw",
+        "provider": "local",
+        "confirmed": 1,
+        "blocked": null,
+        "role": 1,
+        "articles": 2
+      },
+      "js": null,
+      "created_at": 1554277212485,
+      "updated_at": 1554277212492,
+      "image": {
+        "id": 3,
+        "name": "muscle.png",
+        "hash": "f0eebbfeae5c437d91d557e90910eec0",
+        "sha256": "9m7OFjO1s59hAv282mKf6WmUdfv9PLA7sMA0qXFLGr0",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": "87.18",
+        "url": "/uploads/f0eebbfeae5c437d91d557e90910eec0.png",
+        "provider": "local",
+        "public_id": null,
+        "created_at": 1554277212532,
+        "updated_at": 1554277212539
+      },
+      "image___NODE": "/Users/ALEE/Desktop/strapi/gats/app/.cache/gatsby-source-filesystem/1836dc2dd3eff9c9b585c8099c991afd.png absPath of file",
+      "strapiId": 3,
+      "id": "Article_3",
+      "parent": "__SOURCE__",
+      "children": [],
+      "internal": {
+        "type": "StrapiArticle",
+        "contentDigest": "89419a0bdc892595c85156cc00b53bb2",
+        "owner": "gatsby-source-strapi"
+      }
+    },
+    "User_1": {
+      "username": "eunice",
+      "email": "eunice@melody.com.tw",
+      "provider": "local",
+      "confirmed": 1,
+      "blocked": null,
+      "role": {
+        "id": 1,
+        "name": "Administrator",
+        "description": "These users have all access in the project.",
+        "type": "root"
+      },
+      "articles": {
+        "id": 2,
+        "title": "Real Talk — When Was The Last Time You Enjoyed Your Business Trip?",
+        "content": "It’s hard to believe that 2017 is more than halfway over and that fall is in the air. With that, life starts to speed up as kids head back to school, holidays loom just around the corner, and you may find yourself traveling for work a bit more in the coming months as companies try to wrap up end-of-the-year projects.\n\nWelcome to real travel. What does that mean exactly? While we would all like to plan trips to exotic locations for weeks at a time, the truth is that people travel for life reasons, such as visiting relatives, meeting with clients, and for children’s sports. Just because these types of trips are practical does not mean they can’t also be enjoyable. And one travel blogger has some ideas on how to inject some fun into your real life trips.\n\nDanielle Smith, wife, mother, and creator of the Pretty Extraordinary website, \"A place where you can ditch perfection, embrace the juggle and come away celebrating the small victories,\" believes there are some simple ways to get the best out of real travel.* \n\nMake Practical Trips Fun and Fun Trips Practical: \n\nWhether you are obligated to visit a family member or simply travel for business, seek out a few opportunities to enjoy the time away. Find a new restaurant that serves your favorite type of food, take in a show or visit a local treasure. Alternatively, if you have the opportunity to steal away for vacation, take the time to do a college tour with your kids: even if they aren’t looking yet, you never know what doors you may open.* \n\nSeek the Perks: \n\nFor any type of travel, always look for hotels that offer the amenities that will make your stay both more comfortable and affordable. When traveling for business, chances are you’re visiting clients in various cities, so it’s important to find a hotel brand that consistently offers what you need. Hampton by Hilton, for instance, has more than 2,240 properties around the world and offers free amenities to make your stay more pleasurable. To help fuel up for those long days on the road or endless meetings, the hotel provides On the Run breakfast bags as a perk. Need to stay up late working into the evening? There’s free Wi-Fi for that.* \n\nPlan for Disruption: \n\nWe all know that real travel involves real life moments — lost luggage, delayed flights, rainstorms when you were planning on a sunny day. So take the time to monitor the weather before you head to your destination, and keep a few extra items in your carry-on or purse (such as a rain hat, sweater or umbrella).While travel can be stressful, if you are prepared and plan ahead, it doesn’t have to be. You may even be able to enjoy a few moments.\n\nSo don’t forget to book your next getaway at Hampton.com, where Hilton Honors members get a guaranteed discount.  ",
+        "author": 1,
+        "js": null,
+        "created_at": 1554277168694,
+        "updated_at": 1554277216657
+      },
+      "strapiId": 1,
+      "id": "User_1",
+      "parent": "__SOURCE__",
+      "children": [],
+      "internal": {
+        "type": "StrapiUser",
+        "contentDigest": "d7fc92aac4be903cfe0f06408689c2a8",
+        "owner": "gatsby-source-strapi"
+      }
+    },
+    "Testuser_1": {
+      "u_id": "hao123",
+      "u_pwd": "123",
+      "created_at": 1554878625687,
+      "updated_at": 1554879755683,
+      "strapiId": 1,
+      "id": "Testuser_1",
+      "parent": "__SOURCE__",
+      "children": [],
+      "internal": {
+        "type": "StrapiTestuser",
+        "contentDigest": "a62c77c60a8ed5ef999e05df0ee30264",
+        "owner": "gatsby-source-strapi"
+      }
+    },
+    "Testuser_2": {
+      "u_id": "123321",
+      "u_pwd": "444",
+      "created_at": 1554879892981,
+      "updated_at": 1554879892986,
+      "strapiId": 2,
+      "id": "Testuser_2",
+      "parent": "__SOURCE__",
+      "children": [],
+      "internal": {
+        "type": "StrapiTestuser",
+        "contentDigest": "0409fa2db02bcf1fadd57befdb2be66e",
+        "owner": "gatsby-source-strapi"
+      }
+    },
+    "Testuser_3": {
+      "u_id": "John",
+      "u_pwd": "12345",
+      "created_at": 1554884877577,
+      "updated_at": 1554884877577,
+      "strapiId": 3,
+      "id": "Testuser_3",
+      "parent": "__SOURCE__",
+      "children": [],
+      "internal": {
+        "type": "StrapiTestuser",
+        "contentDigest": "deec66a38973a8b6c44b3957672682ea",
+        "owner": "gatsby-source-strapi"
+      }
+    },
+    "Testuser_5": {
+      "u_id": "444",
+      "u_pwd": "111",
+      "created_at": 1555040325682,
+      "updated_at": 1555040325682,
+      "strapiId": 5,
+      "id": "Testuser_5",
+      "parent": "__SOURCE__",
+      "children": [],
+      "internal": {
+        "type": "StrapiTestuser",
+        "contentDigest": "f2ea2d6152bff98fd35e5acc3a67327b",
+        "owner": "gatsby-source-strapi"
+      }
+    },
+    "Testuser_6": {
+      "u_id": "456654",
+      "u_pwd": "132",
+      "created_at": 1555040440858,
+      "updated_at": 1555040440858,
+      "strapiId": 6,
+      "id": "Testuser_6",
+      "parent": "__SOURCE__",
+      "children": [],
+      "internal": {
+        "type": "StrapiTestuser",
+        "contentDigest": "f272a58acb76dd2d9145cc82968614f4",
+        "owner": "gatsby-source-strapi"
+      }
+    },
+    "Testuser_7": {
+      "u_id": "777",
+      "u_pwd": "444",
+      "created_at": 1555040570521,
+      "updated_at": 1555040570521,
+      "strapiId": 7,
+      "id": "Testuser_7",
+      "parent": "__SOURCE__",
+      "children": [],
+      "internal": {
+        "type": "StrapiTestuser",
+        "contentDigest": "668db97b7642dce86e79f3cb5998c7e7",
+        "owner": "gatsby-source-strapi"
+      }
+    },
+    "SitePage /Article_1": {
+      "jsonName": "article-1-6f5",
+      "internalComponentName": "ComponentArticle1",
+      "path": "/Article_1",
+      "component": "/Users/ALEE/Desktop/strapi/gats/app/src/templates/article.js",
+      "componentChunkName": "component---src-templates-article-js",
+      "isCreatedByStatefulCreatePages": false,
+      "context": {
+        "id": "Article_1"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/ALEE/Desktop/strapi/gats/app/src/templates/article.js",
+      "id": "SitePage /Article_1",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b1e00d55632a4974050904c7ffbaba17",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /Article_2": {
+      "jsonName": "article-2-79e",
+      "internalComponentName": "ComponentArticle2",
+      "path": "/Article_2",
+      "component": "/Users/ALEE/Desktop/strapi/gats/app/src/templates/article.js",
+      "componentChunkName": "component---src-templates-article-js",
+      "isCreatedByStatefulCreatePages": false,
+      "context": {
+        "id": "Article_2"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/ALEE/Desktop/strapi/gats/app/src/templates/article.js",
+      "id": "SitePage /Article_2",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c30d0e35f354f3eab77cf37b378a2efa",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /Article_3": {
+      "jsonName": "article-3-e37",
+      "internalComponentName": "ComponentArticle3",
+      "path": "/Article_3",
+      "component": "/Users/ALEE/Desktop/strapi/gats/app/src/templates/article.js",
+      "componentChunkName": "component---src-templates-article-js",
+      "isCreatedByStatefulCreatePages": false,
+      "context": {
+        "id": "Article_3"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/ALEE/Desktop/strapi/gats/app/src/templates/article.js",
+      "id": "SitePage /Article_3",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "90a483db4548ee41ff6e55b71e80bc96",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "jsonName": "404-22d",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/ALEE/Desktop/strapi/gats/app/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "de1e71c1-cf0c-5456-986b-0149b9c33f6f",
+      "pluginCreatorId": "de1e71c1-cf0c-5456-986b-0149b9c33f6f",
+      "componentPath": "/Users/ALEE/Desktop/strapi/gats/app/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "20d73ab0a3809a9bde40a3b999f949a2",
+        "description": "de1e71c1-cf0c-5456-986b-0149b9c33f6f",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/ALEE/Desktop/strapi/gats/app/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "de1e71c1-cf0c-5456-986b-0149b9c33f6f",
+      "pluginCreatorId": "de1e71c1-cf0c-5456-986b-0149b9c33f6f",
+      "componentPath": "/Users/ALEE/Desktop/strapi/gats/app/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "8f4bc7a5166aa66322e640d52b11102c",
+        "description": "de1e71c1-cf0c-5456-986b-0149b9c33f6f",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /page-2/": {
+      "jsonName": "page-2-fbc",
+      "internalComponentName": "ComponentPage2",
+      "path": "/page-2/",
+      "component": "/Users/ALEE/Desktop/strapi/gats/app/src/pages/page-2.js",
+      "componentChunkName": "component---src-pages-page-2-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "de1e71c1-cf0c-5456-986b-0149b9c33f6f",
+      "pluginCreatorId": "de1e71c1-cf0c-5456-986b-0149b9c33f6f",
+      "componentPath": "/Users/ALEE/Desktop/strapi/gats/app/src/pages/page-2.js",
+      "id": "SitePage /page-2/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3e79da602d55030947c41f74e3711828",
+        "description": "de1e71c1-cf0c-5456-986b-0149b9c33f6f",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /signup/": {
+      "jsonName": "signup-371",
+      "internalComponentName": "ComponentSignup",
+      "path": "/signup/",
+      "component": "/Users/ALEE/Desktop/strapi/gats/app/src/pages/signup.js",
+      "componentChunkName": "component---src-pages-signup-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "de1e71c1-cf0c-5456-986b-0149b9c33f6f",
+      "pluginCreatorId": "de1e71c1-cf0c-5456-986b-0149b9c33f6f",
+      "componentPath": "/Users/ALEE/Desktop/strapi/gats/app/src/pages/signup.js",
+      "id": "SitePage /signup/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "da3b2c964cdeeb325ecf9b3033bb3997",
+        "description": "de1e71c1-cf0c-5456-986b-0149b9c33f6f",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "jsonName": "404-html-516",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/ALEE/Desktop/strapi/gats/app/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "componentPath": "/Users/ALEE/Desktop/strapi/gats/app/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e9b071da04c6e43a74fb1f3743d98f4c",
+        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "5d77186a4bc55ef4c01f68a2ce04ba90"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "sq--src-components-layout-js",
+        "sq--src-components-seo-js"
+      ],
+      "dd41b043-cf7d-52a9-84aa-b5cdfcc507da": [
+        "sq--src-components-image-js"
+      ],
+      "dfc5e523-74a8-5fac-bc00-487687287c6a": [
+        "sq--src-components-image-js"
+      ],
+      "Article_1": [
+        "/Article_1"
+      ],
+      "/Users/ALEE/Desktop/strapi/gats/app/.cache/gatsby-source-filesystem/701d2097b591d36653c32ba793935abf.png absPath of file": [
+        "/Article_1",
+        "/"
+      ],
+      "e5005837-3ddb-5629-a263-f8010d521a5b": [
+        "/Article_1",
+        "/"
+      ],
+      "Article_2": [
+        "/Article_2"
+      ],
+      "/Users/ALEE/Desktop/strapi/gats/app/.cache/gatsby-source-filesystem/dac063ca6a0298045eeaf2473e2f56b4.png absPath of file": [
+        "/Article_2",
+        "/"
+      ],
+      "299f151c-5796-5eb4-b2bb-52d521c6b0b0": [
+        "/Article_2",
+        "/"
+      ],
+      "Article_3": [
+        "/Article_3"
+      ],
+      "/Users/ALEE/Desktop/strapi/gats/app/.cache/gatsby-source-filesystem/1836dc2dd3eff9c9b585c8099c991afd.png absPath of file": [
+        "/Article_3",
+        "/"
+      ],
+      "b6d16ce1-25da-5be3-9473-acf721189e26": [
+        "/Article_3",
+        "/"
+      ]
+    },
+    "connections": {
+      "StrapiArticle": [
+        "/"
+      ]
+    }
+  },
+  "jsonDataPaths": {
+    "sq--src-components-layout-js": 755544856,
+    "sq--src-components-seo-js": 2417117884,
+    "article-1-6f5": "553/path---article-1-6-f-5-410-4odlE0vmNDvjXTRGxwmvNuT4yF0",
+    "dev-404-page-5f9": "386/path---dev-404-page-5-f-9-fab-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "article-2-79e": "448/path---article-2-79-e-38e-RIUMu6oPatbKkxoKcCB3qHTsH4",
+    "404-22d": "820/path---404-22-d-bce-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "page-2-fbc": "726/path---page-2-fbc-5a8-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "signup-371": "528/path---signup-371-33e-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "sq--src-components-image-js": 2011440971,
+    "article-3-e37": "868/path---article-3-e-37-f97-U0rXwJEbGCPEAq2G1Hwmg9kZaw",
+    "404-html-516": "285/path---404-html-516-62a-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "index": "605/path---index-6a9-UWktV6A8DnbqQk3pC7qOeUoIQ"
+  },
+  "components": {
+    "/Users/ALEE/Desktop/strapi/gats/app/src/templates/article.js": {
+      "componentPath": "/Users/ALEE/Desktop/strapi/gats/app/src/templates/article.js",
+      "query": "query ArticleTemplate(\n  $id: String!\n) {\n  strapiArticle(id: {eq: $id}) {\n    title\n    content\n    image {\n      childImageSharp {\n        fixed(width: 200, height: 125) {\n          ...GatsbyImageSharpFixed\n        }\n      }\n    }\n    author {\n      id\n      username\n    }\n  }\n}\n\nfragment GatsbyImageSharpFixed on ImageSharpFixed {\n  base64\n  width\n  height\n  src\n  srcSet\n}\n",
+      "pages": [
+        "/Article_1",
+        "/Article_2",
+        "/Article_3"
+      ],
+      "isInBootstrap": false
+    },
+    "/Users/ALEE/Desktop/strapi/gats/app/.cache/dev-404-page.js": {
+      "componentPath": "/Users/ALEE/Desktop/strapi/gats/app/.cache/dev-404-page.js",
+      "query": "",
+      "pages": [
+        "/dev-404-page/"
+      ],
+      "isInBootstrap": false
+    },
+    "/Users/ALEE/Desktop/strapi/gats/app/src/pages/404.js": {
+      "componentPath": "/Users/ALEE/Desktop/strapi/gats/app/src/pages/404.js",
+      "query": "",
+      "pages": [
+        "/404/",
+        "/404.html"
+      ],
+      "isInBootstrap": false
+    },
+    "/Users/ALEE/Desktop/strapi/gats/app/src/pages/index.js": {
+      "componentPath": "/Users/ALEE/Desktop/strapi/gats/app/src/pages/index.js",
+      "query": "query IndexQuery {\n  allStrapiArticle {\n    edges {\n      node {\n        id\n        image {\n          childImageSharp {\n            fixed(width: 200, height: 125) {\n              ...GatsbyImageSharpFixed\n            }\n          }\n        }\n        title\n        content\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFixed on ImageSharpFixed {\n  base64\n  width\n  height\n  src\n  srcSet\n}\n",
+      "pages": [
+        "/"
+      ],
+      "isInBootstrap": false
+    },
+    "/Users/ALEE/Desktop/strapi/gats/app/src/pages/page-2.js": {
+      "componentPath": "/Users/ALEE/Desktop/strapi/gats/app/src/pages/page-2.js",
+      "query": "",
+      "pages": [
+        "/page-2/"
+      ],
+      "isInBootstrap": false
+    },
+    "/Users/ALEE/Desktop/strapi/gats/app/src/pages/signup.js": {
+      "componentPath": "/Users/ALEE/Desktop/strapi/gats/app/src/pages/signup.js",
+      "query": "",
+      "pages": [
+        "/signup/"
+      ],
+      "isInBootstrap": false
+    }
+  },
+  "staticQueryComponents": {
+    "sq--src-components-image-js": {
+      "name": "usersAleeDesktopStrapiGatsAppSrcComponentsImageJs2011440971",
+      "componentPath": "/Users/ALEE/Desktop/strapi/gats/app/src/components/image.js",
+      "id": "sq--src-components-image-js",
+      "jsonName": "sq--src-components-image-js",
+      "query": "query usersAleeDesktopStrapiGatsAppSrcComponentsImageJs2011440971 {\n  placeholderImage: file(relativePath: {eq: \"gatsby-astronaut.png\"}) {\n    childImageSharp {\n      fluid(maxWidth: 300) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "hash": 2011440971
+    },
+    "sq--src-components-layout-js": {
+      "name": "SiteTitleQuery",
+      "componentPath": "/Users/ALEE/Desktop/strapi/gats/app/src/components/layout.js",
+      "id": "sq--src-components-layout-js",
+      "jsonName": "sq--src-components-layout-js",
+      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
+      "hash": 755544856
+    },
+    "sq--src-components-seo-js": {
+      "name": "usersAleeDesktopStrapiGatsAppSrcComponentsSeoJs2417117884",
+      "componentPath": "/Users/ALEE/Desktop/strapi/gats/app/src/components/seo.js",
+      "id": "sq--src-components-seo-js",
+      "jsonName": "sq--src-components-seo-js",
+      "query": "query usersAleeDesktopStrapiGatsAppSrcComponentsSeoJs2417117884 {\n  site {\n    siteMetadata {\n      title\n      description\n      author\n    }\n  }\n}\n",
+      "hash": 2417117884
+    }
+  }
+}
